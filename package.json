@@ -1,0 +1,22 @@
+{
+  "name": "objetos-js",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "ts-node ./aula02-metodos/main.ts"
+  },
+  "author": "Thiago Mazzaroli",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.5.4",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
